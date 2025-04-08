@@ -32,3 +32,6 @@ https://www.libreoffice.org/donate/dl/win-x86_64/7.5.0/zh-TW/LibreOffice_7.5.0_W
 老前整理主程式
 
 https://github.com/eapdb/older_age_one
+
+老前整理師學習教材
+https://metamemory2022.blogspot.com/p/blog-page_1.html
